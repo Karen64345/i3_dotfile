@@ -37,6 +37,7 @@ It is designed for daily use, development, and multitasking.
 ---
 
 ## 📁 Structure
+
 .config/
 ├── i3/
 ├── polybar/
@@ -66,14 +67,15 @@ Clone this repository:
 ```bash
 git clone https://github.com/Karen64345/i3_dotfile.git
 cd i3_dotfile
-
+```
 Then copy configs:
-
+```
 cp -r .config/* ~/.config/
-
+```
 Reload i3:
-
+```
 Mod + Shift + R
+```
 
 ⚠️ Notes
 This setup was built on Arch Linux and CachyOs
