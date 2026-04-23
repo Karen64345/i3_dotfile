@@ -1,0 +1,7 @@
+2026/04/21-23:17:45.471 29ea Reusing MANIFEST /home/soramame/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-23:17:45.471 29ea Recovering log #3
+2026/04/21-23:17:45.472 29ea Reusing old log /home/soramame/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2026/04/21-23:26:43.366 29e3 Level-0 table #5: started
+2026/04/21-23:26:43.401 29e3 Level-0 table #5: 611161 bytes OK
+2026/04/21-23:26:43.409 29e3 Delete type=0 #3
+2026/04/21-23:26:43.410 29e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

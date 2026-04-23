@@ -1,0 +1,14 @@
+api_endpoint: "https://openrouter.ai/api/v1/chat/completions"
+api_key: ""
+huggingface_dtype: q4
+huggingface_model: ""
+local_provider: huggingface
+llm_provider: api
+max_tokens: 120000
+model: anthropic/claude-sonnet-4.6
+params: "temperature:0.2"
+prompt_budget_ratios:
+  history: 40
+  single_message: 10
+  system: 30
+  transient: 30

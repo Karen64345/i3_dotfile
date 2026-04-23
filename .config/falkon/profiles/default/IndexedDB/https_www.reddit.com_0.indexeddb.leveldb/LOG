@@ -1,0 +1,25 @@
+2026/04/21-23:26:21.154 29e3 Reusing MANIFEST /home/soramame/.config/falkon/profiles/default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/21-23:26:21.154 29e3 Recovering log #4
+2026/04/21-23:26:21.157 29e3 Reusing old log /home/soramame/.config/falkon/profiles/default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2026/04/21-23:44:58.667 29df Level-0 table #8: started
+2026/04/21-23:44:58.734 29df Level-0 table #8: 1101473 bytes OK
+2026/04/21-23:44:58.743 29df Delete type=0 #4
+2026/04/21-23:50:59.876 29e3 Level-0 table #10: started
+2026/04/21-23:50:59.890 29e3 Level-0 table #10: 215507 bytes OK
+2026/04/21-23:50:59.898 29e3 Delete type=0 #7
+2026/04/21-23:50:59.898 29e3 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 7405 : 1
+2026/04/21-23:50:59.899 29e3 Compacting 1@0 + 1@1 files
+2026/04/21-23:50:59.911 29e3 Generated table #11@0: 1049 keys, 19599 bytes
+2026/04/21-23:50:59.911 29e3 Compacted 1@0 + 1@1 files => 19599 bytes
+2026/04/21-23:50:59.916 29e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-23:50:59.917 29e3 Delete type=2 #8
+2026/04/21-23:50:59.917 29e3 Delete type=2 #10
+2026/04/21-23:50:59.917 29e3 Manual compaction at level-0 from '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 7405 : 1 .. (end); will stop at (end)
+2026/04/21-23:50:59.917 29e3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 7963 : 1
+2026/04/21-23:50:59.917 29e3 Compacting 1@1 + 1@2 files
+2026/04/21-23:50:59.923 29e3 Generated table #12@1: 105 keys, 11849 bytes
+2026/04/21-23:50:59.923 29e3 Compacted 1@1 + 1@2 files => 11849 bytes
+2026/04/21-23:50:59.929 29e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/21-23:50:59.930 29e3 Delete type=2 #5
+2026/04/21-23:50:59.930 29e3 Delete type=2 #11
+2026/04/21-23:50:59.930 29e3 Manual compaction at level-1 from '\x00\x02\x03\x02\x04\x01\x01\x01\x00-' @ 7963 : 1 .. (end); will stop at (end)

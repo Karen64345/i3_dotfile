@@ -1,0 +1,128 @@
+{
+    "roots": {
+        "bookmark_bar": {
+            "children": [
+            ],
+            "description": "Bookmarks located in Bookmarks Toolbar",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Toolbar",
+            "type": "folder"
+        },
+        "bookmark_menu": {
+            "children": [
+                {
+                    "description": "",
+                    "keyword": "falkon",
+                    "name": "Falkon",
+                    "type": "url",
+                    "url": "https://www.falkon.org/",
+                    "visit_count": 1
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Falkon Store",
+                    "type": "url",
+                    "url": "https://store.falkon.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "kde",
+                    "name": "KDE Community",
+                    "type": "url",
+                    "url": "https://www.kde.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "KDE Planet",
+                    "type": "url",
+                    "url": "https://planet.kde.org/",
+                    "visit_count": 0
+                }
+            ],
+            "description": "Bookmarks located in Bookmarks Menu",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Menu",
+            "type": "folder"
+        },
+        "other": {
+            "children": [
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Dotfiles Index",
+                    "type": "url",
+                    "url": "https://awesome-dotfiles.web.app/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "⌈Ｗｉｒｅｄ　Ｓｏｕｎｄ　ｆｏｒ　Ｗｉｒｅｄ　Ｐｅｏｐｌｅ⌋",
+                    "type": "url",
+                    "url": "https://fauux.neocities.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "WELCUM",
+                    "type": "url",
+                    "url": "https://churchesstart.neocities.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "GitHub - salteax/dotfiles: My linux dotfiles · GitHub",
+                    "type": "url",
+                    "url": "https://github.com/salteax/dotfiles/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "GitHub - vyrx-dev/dotfiles: my configurations · GitHub",
+                    "type": "url",
+                    "url": "https://github.com/vyrx-dev/dotfiles",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "GitHub - Tolepi/kaeros-dotfiles-i3: My monochrome dotfiles for i3 window manager, polybar, rofi and alacritty · GitHub",
+                    "type": "url",
+                    "url": "https://github.com/Tolepi/kaeros-dotfiles-i3/tree/main",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "GitHub - xZepyx/wallpapers: My collection of wallpapers. · GitHub",
+                    "type": "url",
+                    "url": "https://github.com/xZepyx/wallpapers",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "GitHub - CachyOS/cachyos-i3wm-settings: CachyOS i3wm settings · GitHub",
+                    "type": "url",
+                    "url": "https://github.com/CachyOS/cachyos-i3wm-settings",
+                    "visit_count": 0
+                }
+            ],
+            "description": "All other bookmarks",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Unsorted Bookmarks",
+            "type": "folder"
+        }
+    },
+    "version": 1
+}

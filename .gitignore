@@ -1,0 +1,14 @@
+# Browser data (VERY IMPORTANT)
+.config/mozilla/
+.config/firefox/
+
+# Cache
+.cache/
+.local/share/
+
+# Logs
+*.log
+
+# Sensitive/system data
+*.sqlite
+*.db
