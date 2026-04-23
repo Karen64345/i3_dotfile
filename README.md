@@ -1,7 +1,7 @@
 # i3 Dotfiles (Rice Setup)
 
 This repository contains my customized **i3 window manager setup (rice)** built on Linux.  
-It includes a minimal, fast, and aesthetic tiling workflow setup inspired by productivity-focused environments.
+It includes a minimal, fast, and aesthetic tiling workflow setup inspired by productivity focused environments.
 
 ---
 
